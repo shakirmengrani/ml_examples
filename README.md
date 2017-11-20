@@ -1,0 +1,1 @@
+"#Tensorflow with tensorboard in docker \n Very first you should install docker then use docker run -it -p <your desire port>:8888 -p <your desire port>:6006 -v <Your computer path>:<map to desire folder or notebooks> \n here 8888 is default port of jupyter notebook and 6006 is default port of tensorboard \n " 
